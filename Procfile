@@ -1,1 +1,1 @@
-web: coffee bin/runServer.coffee
+web: node bin/runServer.js
