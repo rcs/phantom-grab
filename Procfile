@@ -1,1 +1,1 @@
-web: node bin/runServer.js
+web: bin/node bin/runServer.js
